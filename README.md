@@ -10,7 +10,7 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Simple SONOS system controller
 
 ## Usage
 ```
@@ -19,4 +19,4 @@ Jarvis: output from Jarvis
 ```
 
 ## Author
-[your name](http://your.website)
+[Sergio 'wormch' Pizzotti](https://github.com/wormch/jarvis-sonos-control)
